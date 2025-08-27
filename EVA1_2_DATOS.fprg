@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_2_EVALUACION_DATOS"/>
+        <attribute name="authors" value="Usuario"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:10:16 p. m."/>
+        <attribute name="created" value="VXN1YXJpbztKT0NZOzIwMjUtMDgtMjY7MDU6MDA6MjQgcC4gbS47MjUyMQ=="/>
+        <attribute name="edited" value="VXN1YXJpbztKT0NZOzIwMjUtMDgtMjY7MDU6MTA6MTYgcC4gbS47MTsyNjMx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;JOCELYN ZAMARRON MENDOZA&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.3" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
