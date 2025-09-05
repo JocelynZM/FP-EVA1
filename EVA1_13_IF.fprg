@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_13_IF"/>
+        <attribute name="authors" value="Usuario"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-05 05:28:34 p. m."/>
+        <attribute name="created" value="VXN1YXJpbztKT0NZOzIwMjUtMDktMDU7MDU6MjE6MTEgcC4gbS47MjUxOA=="/>
+        <attribute name="edited" value="VXN1YXJpbztKT0NZOzIwMjUtMDktMDU7MDU6Mjg6MzQgcC4gbS47MTsyNjM4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="CALIFA" type="Real" array="False" size=""/>
+            <output expression="&quot;INTRODUCE LA CALIFICACION&quot;" newline="True"/>
+            <input variable="CALIFA"/>
+            <if expression="CALIFA&gt;=70">
+                <then>
+                    <output expression="&quot;FUGA  A  DISNEY!&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;AZOTES!!!!&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
