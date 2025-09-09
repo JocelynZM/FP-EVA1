@@ -23,7 +23,14 @@ public class EVA1_16_NUMERO_MAYOR {
            
        }
        else{
-         System.out.println("EL NUMERO MAYOR ES: "+numero2);
+            if(numero2>numero1){
+        System.out.println("EL NUMERO MAYOR ES: "+numero2);
+            } else{
+                 System.out.println("LOS NUMEROS SON IGUALES..");
+                }
+        
+         
+         
        }
     }
     
